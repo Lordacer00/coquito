@@ -1,0 +1,54 @@
+/* Estilos para el cuerpo de la página */
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #F5F5F5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para el encabezado h1 */
+h1 {
+  color: #333;
+  text-align: center;
+  margin-top: 50px;
+}
+
+/* Estilos para el párrafo introductorio */
+p {
+  color: #666;
+  font-size: 18px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+/* Estilos para los campos de entrada de números */
+input[type="number"] {
+  width: 50px;
+  height: 30px;
+  margin: 10px;
+  text-align: center;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+/* Estilos para el botón de calcular */
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 18px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+/* Estilos para el párrafo del resultado */
+#resultado {
+  color: #333;
+  font-size: 24px;
+  text-align: center;
+  margin-top: 50px;
+}
